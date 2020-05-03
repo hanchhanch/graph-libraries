@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Visual Studio 2019
+The main Node scripts are available by right clicking on 'packages.json' within the NPM sub memu
+
 ## Available Scripts
 
 In the project directory, you can run:
